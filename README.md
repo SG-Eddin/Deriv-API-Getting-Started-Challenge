@@ -6,7 +6,7 @@ I will remove this repo once you confirm that I can remove it.
 Welcome to the Deriv API getting started page. Here, you will find useful information about Deriv API developer guide, and you can also jump directly to the section of your interest.
 
 This guide consists of the following sections:
-## [Core concepts]
+## [Core concepts](https://github.com/SG-Eddin/Deriv-API-Getting-Started-Challenge/blob/main/Core%20concepts)
  > This section helps you familiarize with Deriv WebSocket server API and how to use it efficiently. You can start choosing your implementation approach based on the language, framework, or library you want to use in your application.
  >
  > These concepts are not related to any of our frameworks or library you want to use in your application.
