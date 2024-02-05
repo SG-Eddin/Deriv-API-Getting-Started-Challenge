@@ -1,5 +1,7 @@
-# Getting Started
-Welcome to the Deriv API getting started page. Here, you will find useful information about Deriv API developer guide, and you can also jump directly to the section of your interest.
+# Quick Start Guide
+Welcome to the Deriv API Quick Start Guide. Here, you will find useful information about Deriv API as well as assistance throughout setting, integrating, and using Deriv API on your project.
+This Quick Start Guide consists of the following sections:
+
 
 This guide consists of the following sections:
 ## [Core concepts](https://github.com/SG-Eddin/Deriv-API-Getting-Started-Challenge/blob/main/Core%20concepts.md)
