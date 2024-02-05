@@ -11,18 +11,18 @@ This guide consists of the following sections:
  >
  > These concepts are not related to any of our frameworks or library you want to use in your application.
 
-## Code Examples
+## [Code Examples](https://github.com/SG-Eddin/Deriv-API-Getting-Started-Challenge/blob/main/Code%20Examples)
  > This section helps you with implementing Deriv API within your code. Code examples come in ‘CodeSandboxes’ which allows you to easily fork these code examples and experiment with them for personal use.
  >
  > For now, we only have JavaScript code examples, but soon we plan to add more examples that are created with different languages, frameworks, and libraries.
 
-## Languages
+## [Languages](https://github.com/SG-Eddin/Deriv-API-Getting-Started-Challenge/blob/main/Languages)
  > While using the code examples, we suggest referring to the Languages section to check how you can setup and integrate some of our code examples in your personal project properly using our API.
 
-## Guides
+## [Guides](https://github.com/SG-Eddin/Deriv-API-Getting-Started-Challenge/blob/main/Guides)
  > Through this section, you can find multiple ‘How to” that can assist you throughout using our API in your own project.
 
-## Setting up a Deriv application
+## [Setting up a Deriv application](https://github.com/SG-Eddin/Deriv-API-Getting-Started-Challenge/blob/main/Setting%20up%20a%20Deriv%20application)
  > Here, you can learn more about the needed essentials to setup your Dervi application.
 
 
